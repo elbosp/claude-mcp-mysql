@@ -23,6 +23,16 @@ Claude MCP MySQL is a Model Context Protocol (MCP) server that enables Claude to
 
 ## Installation
 
+### Instalation Hack!
+
+change .env and then tell claude code to:
+
+```go
+Execute @prompt.md. Install in user scope/level.
+```
+
+or
+
 ### Step 1: Clone the Repository
 
 ```bash
